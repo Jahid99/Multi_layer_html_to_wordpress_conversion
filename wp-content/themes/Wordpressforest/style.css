@@ -1,0 +1,15 @@
+/*
+Theme Name: Wordpress Forest
+Theme forest: http://blog.themeforest.com
+Description:A sample wordpress theme for themeforest.net
+Version: 4.0
+Author: Drew Description
+Tags: Boring,dull,void of life
+*/
+#wrap{
+	width:960px;
+	margin:0 auto;
+}
+#header{
+	text-align: center;
+}
